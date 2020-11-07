@@ -1,0 +1,2 @@
+C:\Users\Admin\Documents\GitHub\week9c\week9\Intermediate\Build\Win64\UE4Editor\Development\week9\Definitions.week9.h
+C:\Users\Admin\Documents\GitHub\week9c\week9\Source\week9\week9.h

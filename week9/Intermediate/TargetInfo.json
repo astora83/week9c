@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "week9",
+			"Path": "C:\\Users\\Admin\\Documents\\GitHub\\week9c\\week9\\Source\\week9.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "week9Editor",
+			"Path": "C:\\Users\\Admin\\Documents\\GitHub\\week9c\\week9\\Source\\week9Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

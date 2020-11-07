@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\week9.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{18A49611-F556-45D5-93A7-C227D2F7AEC7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\week9.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\week9Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{A15EC5B4-D9C7-4B82-BFF9-02448BBA7AC5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\week9">
+      <UniqueIdentifier>{2683B61E-7C02-4044-A365-06E05DFC4347}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\week9\week9.Build.cs">
+      <Filter>Source\week9</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\week9\week9.cpp">
+      <Filter>Source\week9</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\week9\week9.h">
+      <Filter>Source\week9</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\week9\week9GameModeBase.cpp">
+      <Filter>Source\week9</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\week9\week9GameModeBase.h">
+      <Filter>Source\week9</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
