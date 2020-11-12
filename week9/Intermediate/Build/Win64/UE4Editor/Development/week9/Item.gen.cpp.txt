@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\GitHub\week9c\week9\Intermediate\Build\Win64\UE4Editor\Development\week9\Definitions.week9.h
+D:\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Admin\Documents\GitHub\week9c\week9\Source\week9/Item.h
+C:\Users\Admin\Documents\GitHub\week9c\week9\Source\week9\BasePlayer.h
+D:\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/SpringArmComponent.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SpringArmComponent.generated.h
+D:\UE_4.25\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
+C:\Users\Admin\Documents\GitHub\week9c\week9\Intermediate\Build\Win64\UE4Editor\Inc\week9\BasePlayer.generated.h
+D:\UE_4.25\Engine\Source\Runtime\Engine\Classes\Components/CapsuleComponent.h
+D:\UE_4.25\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CapsuleComponent.generated.h
+C:\Users\Admin\Documents\GitHub\week9c\week9\Intermediate\Build\Win64\UE4Editor\Inc\week9\Item.generated.h

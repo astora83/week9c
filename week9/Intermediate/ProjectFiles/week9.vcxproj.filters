@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\week9.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{BCCD8A03-381F-4367-96E1-754948540E92}</UniqueIdentifier>
+      <UniqueIdentifier>{D6BA4901-F279-418C-9273-56B37E5CB78D}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\week9.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{AEE5079A-0704-467E-9AE5-7339A0633ED8}</UniqueIdentifier>
+      <UniqueIdentifier>{BF852D14-00EF-4770-AD24-467FC7430F36}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -23,13 +23,22 @@
     <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
     </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
     <Filter Include="Source\week9">
-      <UniqueIdentifier>{3DFEA369-E4F3-41F1-8F6E-675C58D4B361}</UniqueIdentifier>
+      <UniqueIdentifier>{15F01881-8BB4-45D4-9120-A0E259CA2749}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\week9\BasePlayer.cpp">
       <Filter>Source\week9</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\week9\BasePlayer.h">
+      <Filter>Source\week9</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\week9\Item.cpp">
+      <Filter>Source\week9</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\week9\Item.h">
       <Filter>Source\week9</Filter>
     </ClInclude>
     <None Include="..\..\Source\week9\week9.Build.cs">

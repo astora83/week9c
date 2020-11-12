@@ -16,6 +16,8 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define week9_Source_week9_BasePlayer_h_16_SPARSE_DATA
 #define week9_Source_week9_BasePlayer_h_16_RPC_WRAPPERS
 #define week9_Source_week9_BasePlayer_h_16_RPC_WRAPPERS_NO_PURE_DECLS
+#define week9_Source_week9_BasePlayer_h_16_EVENT_PARMS
+#define week9_Source_week9_BasePlayer_h_16_CALLBACK_WRAPPERS
 #define week9_Source_week9_BasePlayer_h_16_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesABasePlayer(); \
@@ -59,13 +61,17 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ABasePlayer); \
 
 
 #define week9_Source_week9_BasePlayer_h_16_PRIVATE_PROPERTY_OFFSET
-#define week9_Source_week9_BasePlayer_h_13_PROLOG
+#define week9_Source_week9_BasePlayer_h_13_PROLOG \
+	week9_Source_week9_BasePlayer_h_16_EVENT_PARMS
+
+
 #define week9_Source_week9_BasePlayer_h_16_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
 	week9_Source_week9_BasePlayer_h_16_PRIVATE_PROPERTY_OFFSET \
 	week9_Source_week9_BasePlayer_h_16_SPARSE_DATA \
 	week9_Source_week9_BasePlayer_h_16_RPC_WRAPPERS \
+	week9_Source_week9_BasePlayer_h_16_CALLBACK_WRAPPERS \
 	week9_Source_week9_BasePlayer_h_16_INCLASS \
 	week9_Source_week9_BasePlayer_h_16_STANDARD_CONSTRUCTORS \
 public: \
@@ -78,6 +84,7 @@ public: \
 	week9_Source_week9_BasePlayer_h_16_PRIVATE_PROPERTY_OFFSET \
 	week9_Source_week9_BasePlayer_h_16_SPARSE_DATA \
 	week9_Source_week9_BasePlayer_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
+	week9_Source_week9_BasePlayer_h_16_CALLBACK_WRAPPERS \
 	week9_Source_week9_BasePlayer_h_16_INCLASS_NO_PURE_DECLS \
 	week9_Source_week9_BasePlayer_h_16_ENHANCED_CONSTRUCTORS \
 private: \
